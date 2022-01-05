@@ -41,9 +41,9 @@ cmdb连接以及命令执行<br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8.jpg?raw=true"/><br/><br/>
 
 应用发布<br/><br/>
-基于docker-compse和k8s 滚动发布,升级不受限,体验一把梭的感觉，日志实时控制台显示<br/>
+基于docker-compse和k8s 滚动发布,业务不受限,体验一把梭的感觉，日志实时控制台显示<br/>
 只需要在发布时填上对应的版本即可<br/>
-发布失败自动回滚<br/>
+发布失败自动回滚,也可人工指定版本做回滚<br/>
 
 <img src="https://github.com/mono1688/mydevops/blob/main/%E9%83%A8%E7%BD%B2%E5%BA%94%E7%94%A81.jpg?raw=true"/><br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E9%83%A8%E7%BD%B2%E5%BA%94%E7%94%A822.jpg?raw=true"/><br/><br/>
