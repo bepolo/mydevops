@@ -11,10 +11,10 @@
 后端：：<br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E5%90%8E%E7%AB%AFastapi.jpg?raw=true"/><br/><br/>
 
-devops系统中内置常用的应用部署配置包括：<br/>mysql,elk,nacos,gitlab,jenkins,kafka等等<br/><br/>
+devops系统中内置常用的应用部署配置包括：<br/>mysql,elk,nacos,gitlab,jenkins,kafka等等，只需要选择cmdb内的主机 进行一键部署<br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83.jpg?raw=true"/>
 <br/>
-只需要选择cmdb内的主机 进行一键部署
+
 
 
 
