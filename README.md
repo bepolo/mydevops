@@ -14,7 +14,9 @@
 devops系统中内置常用的应用部署配置包括：<br/>mysql,elk,nacos,gitlab,jenkins,kafka等等，只需要选择cmdb内的主机 进行一键部署<br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83.jpg?raw=true"/>
 <br/>
-
+点击修改和部署应用：<br/>
+<img src="https://github.com/mono1688/mydevops/blob/main/%E5%BA%94%E7%94%A8%E4%BF%AE%E6%94%B91.jpg?raw=true"/><br/>
+<img src="https://github.com/mono1688/mydevops/blob/main/%E5%BA%94%E7%94%A8%E4%BF%AE%E6%94%B92.jpg?raw=true"/><br/>
 
 
 
@@ -36,10 +38,11 @@ cmdb连接以及命令执行<br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E8%BF%9E%E6%8E%A5%E5%AE%9E%E4%BE%8B.jpg?raw=true"/><br/><br/>
 
 
-应用管理<br/><br/>
+服务用于我们日常发版的python java go php等应用，是一个发版中心<br/><br/>
+服务管理<br/><br/>
 <img src="https://github.com/mono1688/mydevops/blob/main/%E5%BA%94%E7%94%A8%E5%88%97%E8%A1%A8.jpg?raw=true"/><br/><br/>
 
-应用添加<br/><br/>
+服务添加<br/><br/>
 基于docker-compse和k8s做文件配置<br/>
 
 <img src="https://github.com/mono1688/mydevops/blob/main/%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8.jpg?raw=true"/><br/><br/>
