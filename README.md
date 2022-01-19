@@ -1,5 +1,5 @@
 # mydevops
-# 求职远程运维  熟练docker k8s，devops开发， PHP开发，Python开发，dba VUE jquery  飞机 @wushuang122
+
 前端基于vue,后端python fastapi写的devops开箱即用<br/><br/>
 只需选择cmdb节点,即可部署所有应用,全程自动化<br/>
 
