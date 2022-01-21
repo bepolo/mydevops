@@ -32,12 +32,21 @@
 # 应用部署：<br/>
 # 服务中心,日常的java php go python应用部署<br/>
 列表展示服务 端口 状态 以及镜像<br/>
-![image](https://user-images.githubusercontent.com/97171025/150097768-5475cdd0-7766-4822-a7fc-064ef1dd20a8.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150536548-a1e61636-4d5f-4133-b05d-e9e96a5b47e9.png)<br/>
+服务打包配置(全局加密配置):<br/>
+![image](https://user-images.githubusercontent.com/97171025/150536897-220d755b-3280-46ee-a77a-32488bcc8df3.png)<br/>
 服务编辑<br/> 重要密码由{--变量代替--}<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150098345-7eea64b9-9114-432f-939f-398dbe51ca29.png)<br/>
 全局变量中心<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150098678-9ae28468-24aa-4b4a-b1f7-04f0a0bec516.png)<br/>
+服务打包<br/>
+![image](https://user-images.githubusercontent.com/97171025/150537072-c97a109e-f174-47ac-8738-e5211089505a.png)
+<br/>
+
+
 填入版本号进行部署即可,已做好滚动发布，发布失败自动回退<br/>
+![image](https://user-images.githubusercontent.com/97171025/150537517-fd94bddf-eb34-44f0-814d-e30dee415e2b.png)<br/>
+
 ![image](https://user-images.githubusercontent.com/97171025/150099858-bdbe769b-f5b9-445c-a10c-3d2c853b404e.png)<br/>
 
 # 应用中心,日常的mysql prometheus,gitlab,jenkins,kafka等等内置部署<br/>
