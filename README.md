@@ -87,6 +87,10 @@ myfastapi 1.2发布成1.1<br/>
 域名绑定网关和服务<br/><br/>
 ## 支持成百上万和域名同时绑定,动态绑定，不受任何限制<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680648-c4d7c144-3ad0-4214-b6e3-4eb6cee57cc8.png)<br/>
+实时策略<br/><br/>
+![image](https://user-images.githubusercontent.com/97171025/150686400-91c5f369-36b6-4696-935d-71ae3c907b6b.png)<br/>
+
+
 全程添加域名 选择网关 绑定服务即可，已做好解析以及证书绑定<br/>
 只需要加入hosts或者外网解析或者CDN即可<br/>
 ## 后端某服务节点挂掉会自动下线,不影响整个服务<br/>
