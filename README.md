@@ -4,9 +4,12 @@
 
 前端基于vue,后端python fastapi写的devops开箱即用<br/><br/>
 只需选择cmdb节点,即可部署所有应用,全程自动化<br/>
+集成cmdb,服务,cicd 打包，部署,常用应用部署，网关集成，域名证书绑定，
 
 # 主要功能：<br/>
-![image](https://user-images.githubusercontent.com/97171025/150096167-9912dd56-8d18-46e3-8753-48563d7090ba.png)
+![image](https://user-images.githubusercontent.com/97171025/150680436-b793dc07-9ed3-4d32-b0e0-b0edc5c2b006.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680468-73af152f-f801-4645-b666-2bea63c83d83.png)<br/>
+
 
 # 基础功能：<br/>
 1.用户管理<br/>
@@ -16,6 +19,7 @@
 5.日志<br/>
 
 ![image](https://user-images.githubusercontent.com/97171025/150096390-c9461c45-6360-4b50-ad5f-c924ba932390.png)<br/>
+<br/>
 
 
 # cmdb：<br/>
@@ -40,7 +44,9 @@
 全局变量中心<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150098678-9ae28468-24aa-4b4a-b1f7-04f0a0bec516.png)<br/>
 服务打包<br/>
-![image](https://user-images.githubusercontent.com/97171025/150537072-c97a109e-f174-47ac-8738-e5211089505a.png)
+![image](https://user-images.githubusercontent.com/97171025/150537072-c97a109e-f174-47ac-8738-e5211089505a.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680890-38128fed-cd2c-4120-8b3f-4a76903d6d36.png)<br/>
+
 <br/>
 
 
@@ -60,6 +66,29 @@
 ![image](https://user-images.githubusercontent.com/97171025/150101272-4ff99c6a-ae82-4c4f-add6-f4c57c72e79a.png)<br/>
 部署：<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150101457-e71aad0f-af01-4ccc-9a5d-3df96cdaf485.png)<br/>
+
+
+
+# 网关域名证书<br/>
+网关列表<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680533-8c35197e-d4a4-4713-8af0-e79df784a343.png)<br/>
+<br/>
+域名列表<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680553-c7fe7714-daf5-4836-9d0e-e4be67380de9.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680601-8c655c65-df9d-4b9a-a1cf-29ff12160b51.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680648-c4d7c144-3ad0-4214-b6e3-4eb6cee57cc8.png)<br/>
+全程添加域名 选择网关 绑定服务即可，已做好解析以及证书绑定<br/>
+只需要加入hosts或者外网解析或者CDN即可<br/>
+
+![image](https://user-images.githubusercontent.com/97171025/150680698-88bb3f1c-c088-4904-8e80-38f1cb58e717.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680772-436078a3-18a9-4897-b8c5-59b4f6f3ac98.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150680748-507308f7-cdf9-4160-9e76-47784254725a.png)<br/>
+
+
+隐私全局变量<br/>
+![image](https://user-images.githubusercontent.com/97171025/150101830-82727824-3e18-4128-a70d-046bebc26895.png)<br/>
+
+
 
 # 配置文件集中管理,以及隐私变量<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150101667-e900c3c6-d35d-4c65-ade2-a4169eccc3c3.png)<br/>
