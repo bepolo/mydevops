@@ -4,7 +4,7 @@
 
 前端基于vue,后端python fastapi写的devops开箱即用<br/><br/>
 只需选择cmdb节点,即可部署所有应用,全程自动化<br/>
-集成cmdb,服务,cicd 打包，部署,常用应用部署，网关集成，域名证书绑定，
+集成cmdb,服务,cicd 打包，部署,常用应用部署，网关集成，域名证书绑定，sql系统，工单系统
 
 # 主要功能：<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680436-b793dc07-9ed3-4d32-b0e0-b0edc5c2b006.png)<br/>
@@ -51,9 +51,16 @@
 
 
 填入版本号进行部署即可,已做好滚动发布，发布失败自动回退<br/>
-![image](https://user-images.githubusercontent.com/97171025/150537517-fd94bddf-eb34-44f0-814d-e30dee415e2b.png)<br/>
+myfastapi 1.2发布成1.1<br/>
+![image](https://user-images.githubusercontent.com/97171025/150682000-020f3f7d-d13f-44ed-85c0-e92d2e660f3b.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/150682052-b6541073-02b8-4ba8-9508-6712d453e3a8.png)<br/>
 
-![image](https://user-images.githubusercontent.com/97171025/150099858-bdbe769b-f5b9-445c-a10c-3d2c853b404e.png)<br/>
+
+<br/>
+
+## 直接发布新版本,旧版本服务会逐步替换，即使单机也全量发布，服务不受任何影响，<br/>
+## 可以轻松发加愉快的执行上百个应用同时布<br/>
+
 
 # 应用中心,日常的mysql prometheus,gitlab,jenkins,kafka等等内置部署<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150100372-d96b360d-0473-4620-97f5-51a658fd2c5b.png)<br/>
@@ -73,12 +80,16 @@
 网关列表<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680533-8c35197e-d4a4-4713-8af0-e79df784a343.png)<br/>
 <br/>
-域名列表<br/>
+域名列表<br/><br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680553-c7fe7714-daf5-4836-9d0e-e4be67380de9.png)<br/>
+添加修改证书<br/><br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680601-8c655c65-df9d-4b9a-a1cf-29ff12160b51.png)<br/>
+域名绑定网关和服务<br/><br/>
+## 支持成百上万和域名同时绑定,动态绑定，不受任何限制<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680648-c4d7c144-3ad0-4214-b6e3-4eb6cee57cc8.png)<br/>
 全程添加域名 选择网关 绑定服务即可，已做好解析以及证书绑定<br/>
 只需要加入hosts或者外网解析或者CDN即可<br/>
+## 后端某服务节点挂掉会自动下线,不影响整个服务<br/>
 
 ![image](https://user-images.githubusercontent.com/97171025/150680698-88bb3f1c-c088-4904-8e80-38f1cb58e717.png)<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680772-436078a3-18a9-4897-b8c5-59b4f6f3ac98.png)<br/>
