@@ -1,4 +1,5 @@
 
+# 求职远程运维 devops 熟练docker k8s，devops开发， PHP开发，Python开发，dba ,vue,jquery  飞机 @wushuang122
 
 # mydevops
 
