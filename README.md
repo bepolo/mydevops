@@ -88,7 +88,12 @@ myfastapi 1.2发布成1.1<br/>
 ## 支持成百上万和域名同时绑定,动态绑定，不受任何限制<br/>
 ![image](https://user-images.githubusercontent.com/97171025/150680648-c4d7c144-3ad0-4214-b6e3-4eb6cee57cc8.png)<br/>
 实时策略<br/><br/>
-![image](https://user-images.githubusercontent.com/97171025/150686400-91c5f369-36b6-4696-935d-71ae3c907b6b.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/151545171-27a7ba23-0a68-4810-be31-7fda6bb9d718.png)<br/>
+![image](https://user-images.githubusercontent.com/97171025/151545366-241107b1-50b6-4d00-93d8-a3a848b29620.png)
+
+![image](https://user-images.githubusercontent.com/97171025/151544947-3afb3026-2fef-405a-a85d-e0116412d0ad.png)<br/>
+
+
 
 
 全程添加域名 选择网关 绑定服务即可，已做好解析以及证书绑定<br/>
